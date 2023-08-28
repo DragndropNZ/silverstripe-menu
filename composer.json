@@ -18,10 +18,10 @@
   ],
   "homepage": "http://github.com/gorriecoe/silverstripe-menu",
   "require": {
-    "silverstripe/admin": "^1.0",
-    "silverstripe/graphql": "^4.0.0",
+    "silverstripe/admin": "~2.0.0@stable",
+    "silverstripe/graphql": "~5.0.0@stable",
     "symbiote/silverstripe-gridfieldextensions": "^3.1",
-    "gorriecoe/silverstripe-link": "^1.1"
+    "gorriecoe/silverstripe-link": "^1.5"
   },
   "extra": {
     "installer-name": "menu"
